@@ -1,4 +1,4 @@
-# CS50 DNA Project
+# DNA Analysis
 
 ## Overview
 The goal of the DNA Analysis project is to analyze a DNA sequence and determine the matching individual from a database of DNA profiles. The project simulates the basic principles of DNA profiling used in forensic analysis.
